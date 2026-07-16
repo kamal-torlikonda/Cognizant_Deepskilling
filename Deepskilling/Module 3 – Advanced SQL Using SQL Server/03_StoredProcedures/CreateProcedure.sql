@@ -1,9 +1,0 @@
-CREATE PROCEDURE GetAllEmployees
-AS
-BEGIN
-    SELECT *
-    FROM Employees;
-END;
-GO
-
-EXEC GetAllEmployees;

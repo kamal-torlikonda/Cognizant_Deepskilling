@@ -1,5 +1,0 @@
-CREATE DATABASE CompanyDB;
-GO
-
-USE CompanyDB;
-GO
